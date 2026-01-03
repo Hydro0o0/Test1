@@ -424,3 +424,5 @@ local module = {
 		},
 	},
 }
+
+return module
